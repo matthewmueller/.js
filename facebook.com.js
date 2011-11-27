@@ -1,0 +1,1 @@
+$('#rightCol, #leftCol, #fbDockChat').hide()
